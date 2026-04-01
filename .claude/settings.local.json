@@ -15,7 +15,12 @@
       "Bash(cp \"D:/infinityxglobal-claude/claude all/clone-master/references/phase-contracts.md\" \"D:/infinityxglobal-claude/.claude/commands/references/\")",
       "Bash(npm install:*)",
       "WebSearch",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_evaluate",
+      "mcp__playwright__browser_close"
     ]
   }
 }

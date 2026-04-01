@@ -8,10 +8,10 @@
 # ─────────────────────────────────────────────────────────────
 
 ## Status
-Current phase:  PHASE 0 — Infrastructure setup
-Last completed: GitHub repo created · CLI + slash commands configured · Full product catalogue received
-Next action:    Friend sets up Cloudflare + Vercel (weekend) → /clone-audit
-Blocked by:     Cloudflare + Vercel (friend — available weekend)
+Current phase:  PHASE 3 — Complete (build plan delivered)
+Last completed: sitemap.md + pages.md + build-order.md — 16 sprints defined, ~48hr build estimate
+Next action:    Human review build-order.md → approve sprint sequence → /clone-build
+Blocked by:     Human approval of build order and sprint priorities
 
 ## Project
 Target site:    https://www.maxhub.com/in/
@@ -278,9 +278,9 @@ GRAND TOTAL:          ~42 product pages
 
 ## Phase Completion
 - [ ] Phase 0 — Infrastructure + DNS
-- [ ] Phase 1 — /clone-audit https://www.maxhub.com/in/
-- [ ] Phase 2 — /clone-extract
-- [ ] Phase 3 — /clone-plan
+- [x] Phase 1 — /clone-audit https://www.maxhub.com/in/
+- [x] Phase 2 — /clone-extract
+- [x] Phase 3 — /clone-plan
 - [ ] Phase 4 — /clone-build
 - [ ] Phase 5 — SEO + Performance
 - [ ] Phase 6 — /clone-qa

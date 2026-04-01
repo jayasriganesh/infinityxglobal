@@ -1,0 +1,1333 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - text:    
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - heading "" [level=1]:
+          - link "" [ref=e5] [cursor=pointer]:
+            - /url: /in/
+            - generic [ref=e6]: 
+      - generic [ref=e7]:
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - link "Products" [ref=e10] [cursor=pointer]:
+              - /url: javascript:;
+          - listitem [ref=e11]:
+            - link "Solutions" [ref=e12] [cursor=pointer]:
+              - /url: javascript:;
+          - listitem [ref=e13]:
+            - link "Support" [ref=e14] [cursor=pointer]:
+              - /url: javascript:;
+          - listitem [ref=e15]:
+            - link "Explore" [ref=e16] [cursor=pointer]:
+              - /url: javascript:;
+          - listitem [ref=e17]:
+            - link "Partner Portal" [ref=e18] [cursor=pointer]:
+              - /url: javascript:;
+        - list [ref=e19]:
+          - listitem [ref=e20]:
+            - link "Search... " [ref=e21] [cursor=pointer]:
+              - /url: javascript:;
+              - text: Search...
+              - generic [ref=e22]: 
+          - listitem [ref=e23]:
+            - link " IN" [ref=e24] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=e25]: 
+              - text: IN
+          - listitem [ref=e26]:
+            - link "Contact Sales " [ref=e28] [cursor=pointer]:
+              - /url: /in/contact_us/
+              - generic [ref=e29]: Contact Sales
+              - generic [ref=e30]: 
+    - text:                                                                                                                                                                                              
+    - text:                                              
+  - generic [ref=e31]:
+    - generic [ref=e36]:
+      - img "pic" [ref=e37]
+      - generic [ref=e41]:
+        - heading "MAXHUB XBoard V7 Series" [level=2] [ref=e42]
+        - generic [ref=e43]: Enjoy secure, seamless collaboration and superior video conferencing with our premium all-in-one interactive display.
+    - generic [ref=e48]:
+      - link "Highlight" [ref=e50] [cursor=pointer]:
+        - /url: "#i900"
+      - link "Windows-based MAXHUB OS" [ref=e52] [cursor=pointer]:
+        - /url: "#i898"
+      - link "Camera" [ref=e54] [cursor=pointer]:
+        - /url: "#i920"
+      - link "Sound" [ref=e56] [cursor=pointer]:
+        - /url: "#i928"
+      - link "Display" [ref=e58] [cursor=pointer]:
+        - /url: "#i932"
+      - link "Scenario" [ref=e60] [cursor=pointer]:
+        - /url: "#i908"
+      - link "Specification" [ref=e62] [cursor=pointer]:
+        - /url: "#i976"
+    - img "placeholder" [ref=e67]
+    - generic [ref=e72]:
+      - heading "ALL-IN-ONE WINDOWS-BASED INTERACTIVE FLAT PANEL POWERED BY MAXHUB OS" [level=2] [ref=e73]
+      - paragraph [ref=e74]: The Windows-based MAXHUB XBoard provides seamless compatibility
+      - paragraph [ref=e75]:
+        - generic [ref=e76]: "*Windows is preinstalled on the MT71 Series PC module. The module is sold separately and is not included in the package."
+    - generic [ref=e78]:
+      - img "placeholder" [ref=e79]
+      - generic [ref=e80]:
+        - generic [ref=e83]:
+          - img "bg" [ref=e84]
+          - generic [ref=e86]:
+            - heading [level=2]
+        - generic [ref=e88] [cursor=pointer]: next
+        - generic [ref=e89] [cursor=pointer]: prev
+    - generic [ref=e93]:
+      - generic [ref=e95]:
+        - img "placeholder" [ref=e98]
+        - generic [ref=e99]:
+          - heading [level=3]
+          - generic [ref=e100]:
+            - img "icon" [ref=e103]
+            - generic [ref=e105]:
+              - heading "INSTANT MEETING ACCESS WITH ONE CLICK" [level=3] [ref=e106]
+              - text: There are four mainstream conference platforms to choose from,
+      - text: next prev
+    - generic [ref=e110]:
+      - heading "ENHANCE YOUR MEETING EXPERIENCE WITH OUR INNOVATIVE AI-POWERED TRIDENT LENS SYSTEM" [level=2] [ref=e111]
+      - paragraph [ref=e112]: See everything, miss nothing. 50MP cameras with 2x optical and 5x hybrid zoom, combined with AI-powered viewing options, ensure every participant is seen and heard, promoting dynamic and inclusive collaboration. Transform your meeting experience with unparalleled visual clarity.
+    - img "placeholder" [ref=e117]
+    - generic [ref=e120]:
+      - generic [ref=e122]:
+        - generic [ref=e123] [cursor=pointer]: Auto Framing
+        - generic [ref=e124] [cursor=pointer]: Speaker Tracking
+        - generic [ref=e125] [cursor=pointer]: Intelligent Focus
+        - generic [ref=e126] [cursor=pointer]: Video Fence
+      - generic [ref=e127]:
+        - generic [ref=e130]:
+          - generic [ref=e131]:
+            - generic [ref=e132]:
+              - generic [ref=e133]: AUTO FRAMING
+              - generic [ref=e134]: With auto-framing, the MAXHUB XBoard display automatically adjusts to achieve the best angle based on the number of participants and their location, so it feels like a face-to-face interaction.
+            - generic:
+              - generic: SPEAKER TRACKING
+              - generic: Speaker-tracking technology locates the sound source in real-time, ensuring the speaker is always the center of attention. It supports two active speakers with a dual focus.
+            - generic:
+              - generic: INTELLIGENT FOCUS
+              - generic: Intelligent focus technology enables individual close-ups for multiple participants simultaneously, delivering an immersive in-person experience.
+            - generic:
+              - generic: VIDEO FENCE
+              - generic: Take command of your meeting view with our innovative Video Fence feature. Precisely control the camera's field of view, ensuring AI tracking and focus are only applied within the designated area. Customize presets, auto-framing, speaker tracking, and other AI functions for a truly tailored meeting experience.
+          - generic [ref=e135]:
+            - generic [ref=e136] [cursor=pointer]: prev
+            - generic [ref=e137] [cursor=pointer]: next
+        - generic [ref=e140]:
+          - img "placeholder" [ref=e143]
+          - img "placeholder" [ref=e147]
+          - img "placeholder" [ref=e151]
+          - img "placeholder" [ref=e155]
+    - generic [ref=e160]:
+      - heading "HEAR AND BE HEARD" [level=2] [ref=e161]
+      - paragraph
+    - img "placeholder" [ref=e166]
+    - generic [ref=e169]:
+      - generic [ref=e171]:
+        - generic [ref=e172] [cursor=pointer]: AI Noise Reduction
+        - generic [ref=e173] [cursor=pointer]: Audio Fence
+        - generic [ref=e174] [cursor=pointer]: AI Spatial Sound
+        - generic [ref=e175] [cursor=pointer]: Optional Expansion Speakerphones
+      - generic [ref=e176]:
+        - generic [ref=e179]:
+          - generic [ref=e180]:
+            - generic [ref=e181]:
+              - generic [ref=e182]: AI NOISE REDUCTION
+              - generic [ref=e183]: With 16 array microphones spanning a 180° wide-angle and boasting an 15-meter voice pickup range, coupled with its AI Noise Cancellation technology, the MAXHUB XBoard ensures crystal-clear voice transmission for all participants.
+            - generic:
+              - generic: AUDIO FENCE
+              - generic: Where clarity meets intelligence. Adaptive EQ modes and AI noise cancellation create a virtual sound barrier, filtering out external distractions. Experience meetings where every word matters, free from the disruptions of the outside world.
+            - generic:
+              - generic: AI SPATIAL SOUND
+              - generic: Our system dynamically adapts to your space, providing optimal EQ modes to customize sound isolation angles, ensuring unparalleled audio quality. Guarantee clear communication for remote participants, free from external distractions.
+            - generic:
+              - generic: OPTIONAL EXPANSION SPEAKERPHONES
+              - generic: Optional expansion speakerphones cater to meeting spaces of any size, offering the flexibility to capture every sound during meetings precisely during meetings.
+          - generic [ref=e184]:
+            - generic [ref=e185] [cursor=pointer]: prev
+            - generic [ref=e186] [cursor=pointer]: next
+        - generic [ref=e189]:
+          - img "placeholder" [ref=e192]
+          - img "placeholder" [ref=e196]
+          - img "placeholder" [ref=e200]
+          - img "placeholder" [ref=e204]
+    - generic [ref=e209]:
+      - heading "IMMERSE YOURSELF IN CRYSTAL CLEAR DETAIL WITH 4K DISPLAY TECHNOLOGY" [level=2] [ref=e210]
+      - paragraph [ref=e211]: With a 4K display four times more powerful than HD, every detail is brought to life with stunning clarity.
+    - generic [ref=e213]:
+      - img "placeholder" [ref=e214]
+      - generic [ref=e215]:
+        - generic [ref=e218]:
+          - img "bg" [ref=e219]
+          - generic [ref=e221]:
+            - heading [level=2]
+        - generic [ref=e223] [cursor=pointer]: next
+        - generic [ref=e224] [cursor=pointer]: prev
+    - generic [ref=e226]:
+      - generic [ref=e228]:
+        - generic [ref=e229] [cursor=pointer]: 90% NTSC Color Gamut
+        - generic [ref=e230] [cursor=pointer]: Non-Glare Screen
+        - generic [ref=e231] [cursor=pointer]: Flexible Sizes
+      - generic [ref=e232]:
+        - generic [ref=e235]:
+          - generic [ref=e236]:
+            - generic [ref=e237]:
+              - generic [ref=e238]: 90% NTSC COLOR GAMUT
+              - generic [ref=e239]: Color gamut is the range of colors that can be accurately shown in a scenario. The greater, the better. With 90% NTSC, the MAXHUB XBoard is suitable for high-end design, photography, film, and video.
+            - generic:
+              - generic: NON-GLARE SCREEN
+              - generic: The MAXHUB XBoard screen features Non-Glare Screen technology that reduces reflections and improves visibility in bright environments.
+              - generic:
+                - generic: "DOI: Distinctness of image"
+            - generic:
+              - generic: FLEXIBLE SIZES
+              - generic: The MAXHUB XBoard features 55/65/75/86-inch 16:9 resolution, offering great size and aspect ratio flexibility.
+          - generic [ref=e240]:
+            - generic [ref=e241] [cursor=pointer]: prev
+            - generic [ref=e242] [cursor=pointer]: next
+        - generic [ref=e245]:
+          - img "placeholder" [ref=e248]
+          - img "placeholder" [ref=e252]
+          - img "placeholder" [ref=e256]
+    - generic [ref=e261]:
+      - heading "EFFICIENT, INSPIRED BRAINSTORMING" [level=2] [ref=e262]
+      - paragraph [ref=e263]: Start the whiteboard with just one click and dive into creative, efficient brainstorming. Equipped with 50 touch points, the device supports multiple people writing simultaneously and comes with a variety of preinstalled graphic templates.
+    - generic [ref=e265]:
+      - img "placeholder" [ref=e266]
+      - generic [ref=e267]:
+        - generic [ref=e270]:
+          - img "bg" [ref=e271]
+          - generic [ref=e273]:
+            - heading [level=2]
+        - generic [ref=e275] [cursor=pointer]: next
+        - generic [ref=e276] [cursor=pointer]: prev
+    - generic [ref=e279]:
+      - generic:
+        - heading [level=2]
+      - generic [ref=e280]:
+        - generic [ref=e282]:
+          - generic [ref=e283]:
+            - link "pic" [ref=e284] [cursor=pointer]:
+              - /url: javascript:;
+              - img "pic" [ref=e285]
+            - generic [ref=e286]:
+              - heading "Windows Ink" [level=4] [ref=e287]
+              - paragraph [ref=e288]
+          - generic [ref=e289]:
+            - link "pic" [ref=e290] [cursor=pointer]:
+              - /url: javascript:;
+              - img "pic" [ref=e291]
+            - generic [ref=e293]:
+              - heading "Think & Ink" [level=4] [ref=e294]
+              - paragraph [ref=e295]
+          - generic [ref=e296]:
+            - link "pic" [ref=e297] [cursor=pointer]:
+              - /url: javascript:;
+              - img "pic" [ref=e298]
+            - generic [ref=e299]:
+              - heading "Palm Rejection" [level=4] [ref=e300]
+              - paragraph [ref=e301]
+          - generic [ref=e302]:
+            - link "pic" [ref=e303] [cursor=pointer]:
+              - /url: javascript:;
+              - img "pic" [ref=e304]
+            - generic [ref=e305]:
+              - heading "Sharp Erase" [level=4] [ref=e306]
+              - paragraph [ref=e307]
+        - generic:
+          - generic [ref=e308] [cursor=pointer]: prev
+          - generic [ref=e309] [cursor=pointer]: next
+    - generic [ref=e311]:
+      - generic [ref=e312]:
+        - generic [ref=e313]: EMPOWER WITH CONTENT SHARING
+        - generic [ref=e314]:
+          - generic [ref=e315] [cursor=pointer]: BYOM
+          - generic [ref=e316] [cursor=pointer]: Content Sharing
+          - generic [ref=e317] [cursor=pointer]: Sonic Share
+          - generic [ref=e318] [cursor=pointer]: P2P Connection
+      - generic [ref=e319]:
+        - generic [ref=e322]:
+          - generic [ref=e323]:
+            - generic [ref=e324]:
+              - generic [ref=e325]: BYOM
+              - generic [ref=e326]: With BYOM (Bring-Your-Own-Meeting), you can host meetings directly from your own device while leveraging MAXHUB XBoard's state-of-the-art audiovisual equipment for an exceptional attendee experience.
+            - generic:
+              - generic: CONTENT SHARING
+              - generic: Flexible content sharing with both wired and wireless options.
+            - generic:
+              - generic: SONIC SHARE
+              - generic: Experience the magic of instant screen sharing with ultrasonic technology. No Wi-Fi needed! Forget fumbling with wires and complicated setups. Ultrasonic screen sharing enables instant, point-to-point connections, transforming any space into a dynamic collaboration hub. No cables, no delays, just pure productivity.
+            - generic:
+              - generic: P2P CONNECTION
+              - generic: P2P screen mirroring works even without a network, it is super fast and clear.
+          - generic [ref=e327]:
+            - generic [ref=e328] [cursor=pointer]: prev
+            - generic [ref=e329] [cursor=pointer]: next
+        - generic [ref=e332]:
+          - img "placeholder" [ref=e335]
+          - img "placeholder" [ref=e339]
+          - img "placeholder" [ref=e343]
+          - img "placeholder" [ref=e347]
+    - generic [ref=e352]:
+      - generic [ref=e353]:
+        - img "placeholder" [ref=e355]
+        - generic [ref=e357]:
+          - heading "EASY DEPLOYMENT" [level=4] [ref=e358]
+          - paragraph [ref=e359]: Plug and play effortlessly with just one cable deployment.
+      - generic [ref=e360]:
+        - generic [ref=e361]:
+          - img "placeholder" [ref=e362]
+          - img "pic" [ref=e363]
+        - generic [ref=e364]:
+          - heading "SIMPLE REMOTE DEVICE MANAGEMENT" [level=4] [ref=e365]
+          - paragraph [ref=e366]: MAXHUB Pivot simplifies monitoring, controlling, and updating room devices, boosting operational efficiency.
+    - generic [ref=e370]:
+      - heading "3-YEAR WARRANTY AND LOCAL SUPPORT FOR SEAMLESS WORKFLOW" [level=2] [ref=e371]
+      - paragraph [ref=e372]: The MAXHUB product portfolio comes with a 3-year advanced replacement warranty and local support. This ensures a seamless user experience and uninterrupted workflow while accommodating cost-balancing needs.
+    - img "placeholder" [ref=e377]
+    - generic [ref=e381]:
+      - generic [ref=e382]:
+        - img "arrow"
+        - generic [ref=e383]:
+          - generic [ref=e384]: Huddle/Small Room
+          - generic [ref=e385]: Medium/Large Room
+          - generic [ref=e386]: Extra-large Rooms
+          - generic [ref=e387]: Open Space
+      - generic [ref=e389]:
+        - img "pic" [ref=e391]
+        - generic [ref=e392]:
+          - generic [ref=e393]:
+            - img "icon" [ref=e395]
+            - generic [ref=e398]: 2-4 People
+            - heading [level=3]
+          - generic [ref=e401]: Huddle/Small Room
+    - generic [ref=e405]:
+      - generic [ref=e407]:
+        - img "placeholder" [ref=e410]
+        - generic [ref=e411]:
+          - img "icon" [ref=e413]
+          - heading "SUSTAINABILITY IN DESIGN" [level=3] [ref=e414]
+          - generic [ref=e415]: ENERGY STAR-certified, the MAXHUB XBoard helps you protect the environment and save costs.
+      - text: next prev
+    - generic [ref=e418]:
+      - generic [ref=e419]:
+        - heading "SPECIFICATIONS" [level=2] [ref=e420]
+        - link "Download Leaflet " [ref=e422] [cursor=pointer]:
+          - /url: https://sgp-cstore-pub.maxhub.com/maxhub_global_public/upload/m2kbjcjy/MAXHUB_XBoard_V7_Series_0910_v7.pdf
+          - generic [ref=e423]: Download Leaflet
+          - generic [ref=e424]: 
+      - link "Close " [ref=e427] [cursor=pointer]:
+        - /url: javascript:;
+        - generic [ref=e428]: Close
+        - generic [ref=e429]: 
+      - table [ref=e432]:
+        - rowgroup [ref=e433]:
+          - row "Model V5550 V6550 V7550 V8650" [ref=e434]:
+            - columnheader "Model" [ref=e435]
+            - columnheader "V5550" [ref=e436]
+            - columnheader "V6550" [ref=e437]
+            - columnheader "V7550" [ref=e438]
+            - columnheader "V8650" [ref=e439]
+        - rowgroup [ref=e440]:
+          - row "Display" [ref=e441]:
+            - cell "Display" [ref=e442]
+          - row "Model V5550 V6550 V7550 V8650" [ref=e443]:
+            - cell "Model" [ref=e444]
+            - cell "V5550" [ref=e445]
+            - cell "V6550" [ref=e446]
+            - cell "V7550" [ref=e447]
+            - cell "V8650" [ref=e448]
+          - row "Screen Size (Inch) 55 65 75 86" [ref=e449]:
+            - cell "Screen Size (Inch)" [ref=e450]
+            - cell "55" [ref=e451]
+            - cell "65" [ref=e452]
+            - cell "75" [ref=e453]
+            - cell "86" [ref=e454]
+          - row "Aspect Ratio 16:9 16:9 16:9 16:9" [ref=e455]:
+            - cell "Aspect Ratio" [ref=e456]
+            - cell "16:9" [ref=e457]
+            - cell "16:9" [ref=e458]
+            - cell "16:9" [ref=e459]
+            - cell "16:9" [ref=e460]
+          - row "Panel ADS VA VA IPS" [ref=e461]:
+            - cell "Panel" [ref=e462]
+            - cell "ADS" [ref=e463]
+            - cell "VA" [ref=e464]
+            - cell "VA" [ref=e465]
+            - cell "IPS" [ref=e466]
+          - row "Backlight DLED DLED DLED DLED" [ref=e467]:
+            - cell "Backlight" [ref=e468]
+            - cell "DLED" [ref=e469]
+            - cell "DLED" [ref=e470]
+            - cell "DLED" [ref=e471]
+            - cell "DLED" [ref=e472]
+          - row "Brightness (Typ.) 350 nits 350 nits 350 nits 350 nits" [ref=e473]:
+            - cell "Brightness (Typ.)" [ref=e474]
+            - cell "350 nits" [ref=e475]
+            - cell "350 nits" [ref=e476]
+            - cell "350 nits" [ref=e477]
+            - cell "350 nits" [ref=e478]
+          - row "Glass Zero parallax 3mm thickness 9H tempered Zero parallax 3mm thickness 9H tempered Zero parallax 3mm thickness 9H tempered Zero parallax 3mm thickness 9H tempered" [ref=e479]:
+            - cell "Glass" [ref=e480]
+            - cell "Zero parallax 3mm thickness 9H tempered" [ref=e481]:
+              - text: Zero parallax
+              - text: 3mm thickness
+              - text: 9H tempered
+            - cell "Zero parallax 3mm thickness 9H tempered" [ref=e482]:
+              - text: Zero parallax
+              - text: 3mm thickness
+              - text: 9H tempered
+            - cell "Zero parallax 3mm thickness 9H tempered" [ref=e483]:
+              - text: Zero parallax
+              - text: 3mm thickness
+              - text: 9H tempered
+            - cell "Zero parallax 3mm thickness 9H tempered" [ref=e484]:
+              - text: Zero parallax
+              - text: 3mm thickness
+              - text: 9H tempered
+          - row "Surface Technology 25% haze Non-glare technology 25% haze Non-glare technology 25% haze Non-glare technology 25% haze Non-glare technology" [ref=e485]:
+            - cell "Surface Technology" [ref=e486]
+            - cell "25% haze Non-glare technology" [ref=e487]:
+              - text: 25% haze
+              - text: Non-glare technology
+            - cell "25% haze Non-glare technology" [ref=e488]:
+              - text: 25% haze
+              - text: Non-glare technology
+            - cell "25% haze Non-glare technology" [ref=e489]:
+              - text: 25% haze
+              - text: Non-glare technology
+            - cell "25% haze Non-glare technology" [ref=e490]:
+              - text: 25% haze
+              - text: Non-glare technology
+          - row "Resolution 3840 × 2160 3840 × 2160 3840 × 2160 3840 × 2160" [ref=e491]:
+            - cell "Resolution" [ref=e492]
+            - cell "3840 × 2160" [ref=e493]
+            - cell "3840 × 2160" [ref=e494]
+            - cell "3840 × 2160" [ref=e495]
+            - cell "3840 × 2160" [ref=e496]
+          - row "Refresh Rate 60 Hz 60 Hz 60 Hz 60 Hz" [ref=e497]:
+            - cell "Refresh Rate" [ref=e498]
+            - cell "60 Hz" [ref=e499]
+            - cell "60 Hz" [ref=e500]
+            - cell "60 Hz" [ref=e501]
+            - cell "60 Hz" [ref=e502]
+          - row "Contrast Ratio 1200:1 (typ.) 5000:1 (typ.) 5000:1 (typ.) 1200:1 (typ.)" [ref=e503]:
+            - cell "Contrast Ratio" [ref=e504]
+            - cell "1200:1 (typ.)" [ref=e505]
+            - cell "5000:1 (typ.)" [ref=e506]
+            - cell "5000:1 (typ.)" [ref=e507]
+            - cell "1200:1 (typ.)" [ref=e508]
+          - row "Viewing Angle (H × V) 178° / 178° 178° / 178° 178° / 178° 178° / 178°" [ref=e509]:
+            - cell "Viewing Angle (H × V)" [ref=e510]
+            - cell "178° / 178°" [ref=e511]
+            - cell "178° / 178°" [ref=e512]
+            - cell "178° / 178°" [ref=e513]
+            - cell "178° / 178°" [ref=e514]
+          - row "Color Gamut 90% NTSC 90% NTSC 90% NTSC 90% NTSC" [ref=e515]:
+            - cell "Color Gamut" [ref=e516]
+            - cell "90% NTSC" [ref=e517]
+            - cell "90% NTSC" [ref=e518]
+            - cell "90% NTSC" [ref=e519]
+            - cell "90% NTSC" [ref=e520]
+          - row "Display Orientation Landscape Landscape Landscape Landscape" [ref=e521]:
+            - cell "Display Orientation" [ref=e522]
+            - cell "Landscape" [ref=e523]
+            - cell "Landscape" [ref=e524]
+            - cell "Landscape" [ref=e525]
+            - cell "Landscape" [ref=e526]
+          - row "Response Time 8 ms 6.5 ms 6.5 ms 8 ms" [ref=e527]:
+            - cell "Response Time" [ref=e528]
+            - cell "8 ms" [ref=e529]
+            - cell "6.5 ms" [ref=e530]
+            - cell "6.5 ms" [ref=e531]
+            - cell "8 ms" [ref=e532]
+          - row "Life Time ＞50,000 hours ＞50,000 hours ＞50,000 hours ＞50,000 hours" [ref=e533]:
+            - cell "Life Time" [ref=e534]
+            - cell "＞50,000 hours" [ref=e535]
+            - cell "＞50,000 hours" [ref=e536]
+            - cell "＞50,000 hours" [ref=e537]
+            - cell "＞50,000 hours" [ref=e538]
+          - row "Operation Hours (Hours / Day) 16 / 7 16 / 7 16 / 7 16 / 7" [ref=e539]:
+            - cell "Operation Hours (Hours / Day)" [ref=e540]
+            - cell "16 / 7" [ref=e541]
+            - cell "16 / 7" [ref=e542]
+            - cell "16 / 7" [ref=e543]
+            - cell "16 / 7" [ref=e544]
+          - row "Display Color 1.07B (10 bit) 1.07B (10 bit) 1.07B (10 bit) 1.07B (10 bit)" [ref=e545]:
+            - cell "Display Color" [ref=e546]
+            - cell "1.07B (10 bit)" [ref=e547]
+            - cell "1.07B (10 bit)" [ref=e548]
+            - cell "1.07B (10 bit)" [ref=e549]
+            - cell "1.07B (10 bit)" [ref=e550]
+          - row "Color Accuracy Delta E ≤ 1.5 Delta E ≤ 1.5 Delta E ≤ 1.5 Delta E ≤ 1.5" [ref=e551]:
+            - cell "Color Accuracy" [ref=e552]
+            - cell "Delta E ≤ 1.5" [ref=e553]
+            - cell "Delta E ≤ 1.5" [ref=e554]
+            - cell "Delta E ≤ 1.5" [ref=e555]
+            - cell "Delta E ≤ 1.5" [ref=e556]
+          - row "Sensor Ambient light sensor Ultrasonic detection sensor Ambient light sensor Ultrasonic detection sensor Ambient light sensor Ultrasonic detection sensor Ambient light sensor Ultrasonic detection sensor" [ref=e557]:
+            - cell "Sensor" [ref=e558]
+            - cell "Ambient light sensor Ultrasonic detection sensor" [ref=e559]:
+              - text: Ambient light sensor
+              - text: Ultrasonic detection sensor
+            - cell "Ambient light sensor Ultrasonic detection sensor" [ref=e560]:
+              - text: Ambient light sensor
+              - text: Ultrasonic detection sensor
+            - cell "Ambient light sensor Ultrasonic detection sensor" [ref=e561]:
+              - text: Ambient light sensor
+              - text: Ultrasonic detection sensor
+            - cell "Ambient light sensor Ultrasonic detection sensor" [ref=e562]:
+              - text: Ambient light sensor
+              - text: Ultrasonic detection sensor
+          - row "Touch System" [ref=e563]:
+            - cell "Touch System" [ref=e564]
+          - row "Touch Technology Intelligent Touchscreen Technology (infrared recognition) Intelligent Touchscreen Technology (infrared recognition) Intelligent Touchscreen Technology (infrared recognition) Intelligent Touchscreen Technology (infrared recognition)" [ref=e565]:
+            - cell "Touch Technology" [ref=e566]
+            - cell "Intelligent Touchscreen Technology (infrared recognition)" [ref=e567]:
+              - text: Intelligent Touchscreen Technology
+              - text: (infrared recognition)
+            - cell "Intelligent Touchscreen Technology (infrared recognition)" [ref=e568]:
+              - text: Intelligent Touchscreen Technology
+              - text: (infrared recognition)
+            - cell "Intelligent Touchscreen Technology (infrared recognition)" [ref=e569]:
+              - text: Intelligent Touchscreen Technology
+              - text: (infrared recognition)
+            - cell "Intelligent Touchscreen Technology (infrared recognition)" [ref=e570]:
+              - text: Intelligent Touchscreen Technology
+              - text: (infrared recognition)
+          - row "Touch Point 50 points touch 50 points touch 50 points touch 50 points touch" [ref=e571]:
+            - cell "Touch Point" [ref=e572]
+            - cell "50 points touch" [ref=e573]
+            - cell "50 points touch" [ref=e574]
+            - cell "50 points touch" [ref=e575]
+            - cell "50 points touch" [ref=e576]
+          - row "Object Recognition Range ≥1.5 mm ≥1.5 mm ≥1.5 mm ≥1.5 mm" [ref=e577]:
+            - cell "Object Recognition Range" [ref=e578]
+            - cell "≥1.5 mm" [ref=e579]
+            - cell "≥1.5 mm" [ref=e580]
+            - cell "≥1.5 mm" [ref=e581]
+            - cell "≥1.5 mm" [ref=e582]
+          - row "Accuracy ±0.5 mm ±0.5 mm ±0.5 mm ±0.5 mm" [ref=e583]:
+            - cell "Accuracy" [ref=e584]
+            - cell "±0.5 mm" [ref=e585]
+            - cell "±0.5 mm" [ref=e586]
+            - cell "±0.5 mm" [ref=e587]
+            - cell "±0.5 mm" [ref=e588]
+          - row "Response Time ≤2.5 ms ≤2.5 ms ≤2.5 ms ≤2.5 ms" [ref=e589]:
+            - cell "Response Time" [ref=e590]
+            - cell "≤2.5 ms" [ref=e591]
+            - cell "≤2.5 ms" [ref=e592]
+            - cell "≤2.5 ms" [ref=e593]
+            - cell "≤2.5 ms" [ref=e594]
+          - row "Writing Height ≤1 mm ≤1 mm ≤1 mm ≤1 mm" [ref=e595]:
+            - cell "Writing Height" [ref=e596]
+            - cell "≤1 mm" [ref=e597]
+            - cell "≤1 mm" [ref=e598]
+            - cell "≤1 mm" [ref=e599]
+            - cell "≤1 mm" [ref=e600]
+          - row "System (Touch Return) Windows11/Windows10/ Windows8/Windows7/ Android/Linux/ Mac OS X/Chrome OS Windows11/Windows10/ Windows8/Windows7/ Android/Linux/ Mac OS X/Chrome OS Windows11/Windows10/ Windows8/Windows7/ Android/Linux/ Mac OS X/Chrome OS Windows11/Windows10/ Windows8/Windows7/ Android/Linux/ Mac OS X/Chrome OS" [ref=e601]:
+            - cell "System (Touch Return)" [ref=e602]
+            - cell "Windows11/Windows10/ Windows8/Windows7/ Android/Linux/ Mac OS X/Chrome OS" [ref=e603]:
+              - text: Windows11/Windows10/
+              - text: Windows8/Windows7/
+              - text: Android/Linux/
+              - text: Mac OS X/Chrome OS
+            - cell "Windows11/Windows10/ Windows8/Windows7/ Android/Linux/ Mac OS X/Chrome OS" [ref=e604]:
+              - text: Windows11/Windows10/
+              - text: Windows8/Windows7/
+              - text: Android/Linux/
+              - text: Mac OS X/Chrome OS
+            - cell "Windows11/Windows10/ Windows8/Windows7/ Android/Linux/ Mac OS X/Chrome OS" [ref=e605]:
+              - text: Windows11/Windows10/
+              - text: Windows8/Windows7/
+              - text: Android/Linux/
+              - text: Mac OS X/Chrome OS
+            - cell "Windows11/Windows10/ Windows8/Windows7/ Android/Linux/ Mac OS X/Chrome OS" [ref=e606]:
+              - text: Windows11/Windows10/
+              - text: Windows8/Windows7/
+              - text: Android/Linux/
+              - text: Mac OS X/Chrome OS
+          - row "Feature Windows Ink / Direct Annotation / Palm Rejection / Sharp Erase / Multi-input Recognition / Handwriting Recognition Windows Ink / Direct Annotation / Palm Rejection / Sharp Erase / Multi-input Recognition / Handwriting Recognition Windows Ink / Direct Annotation / Palm Rejection / Sharp Erase / Multi-input Recognition / Handwriting Recognition Windows Ink / Direct Annotation / Palm Rejection / Sharp Erase / Multi-input Recognition / Handwriting Recognition" [ref=e607]:
+            - cell "Feature" [ref=e608]
+            - cell "Windows Ink / Direct Annotation / Palm Rejection / Sharp Erase / Multi-input Recognition / Handwriting Recognition" [ref=e609]
+            - cell "Windows Ink / Direct Annotation / Palm Rejection / Sharp Erase / Multi-input Recognition / Handwriting Recognition" [ref=e610]
+            - cell "Windows Ink / Direct Annotation / Palm Rejection / Sharp Erase / Multi-input Recognition / Handwriting Recognition" [ref=e611]
+            - cell "Windows Ink / Direct Annotation / Palm Rejection / Sharp Erase / Multi-input Recognition / Handwriting Recognition" [ref=e612]
+          - row "Connectivity" [ref=e613]:
+            - cell "Connectivity" [ref=e614]
+          - row "HDMI IN × 2 × 2 × 2 × 2" [ref=e615]:
+            - cell "HDMI IN" [ref=e616]
+            - cell "× 2" [ref=e617]
+            - cell "× 2" [ref=e618]
+            - cell "× 2" [ref=e619]
+            - cell "× 2" [ref=e620]
+          - row "USB 2.0 × 1 × 1 × 1 × 1" [ref=e621]:
+            - cell "USB 2.0" [ref=e622]
+            - cell "× 1" [ref=e623]
+            - cell "× 1" [ref=e624]
+            - cell "× 1" [ref=e625]
+            - cell "× 1" [ref=e626]
+          - row "USB 3.0 × 2 × 2 × 2 × 2" [ref=e627]:
+            - cell "USB 3.0" [ref=e628]
+            - cell "× 2" [ref=e629]
+            - cell "× 2" [ref=e630]
+            - cell "× 2" [ref=e631]
+            - cell "× 2" [ref=e632]
+          - row "USB Type-C × 1 × 1 × 1 × 1" [ref=e633]:
+            - cell "USB Type-C" [ref=e634]
+            - cell "× 1" [ref=e635]
+            - cell "× 1" [ref=e636]
+            - cell "× 1" [ref=e637]
+            - cell "× 1" [ref=e638]
+          - row "TOUCH 2.0 × 1 × 1 × 1 × 1" [ref=e639]:
+            - cell "TOUCH 2.0" [ref=e640]
+            - cell "× 1" [ref=e641]
+            - cell "× 1" [ref=e642]
+            - cell "× 1" [ref=e643]
+            - cell "× 1" [ref=e644]
+          - row "AUDIO IN × 1 × 1 × 1 × 1" [ref=e645]:
+            - cell "AUDIO IN" [ref=e646]
+            - cell "× 1" [ref=e647]
+            - cell "× 1" [ref=e648]
+            - cell "× 1" [ref=e649]
+            - cell "× 1" [ref=e650]
+          - row "AUDIO OUT × 1 × 1 × 1 × 1" [ref=e651]:
+            - cell "AUDIO OUT" [ref=e652]
+            - cell "× 1" [ref=e653]
+            - cell "× 1" [ref=e654]
+            - cell "× 1" [ref=e655]
+            - cell "× 1" [ref=e656]
+          - row "RS232 × 1 × 1 × 1 × 1" [ref=e657]:
+            - cell "RS232" [ref=e658]
+            - cell "× 1" [ref=e659]
+            - cell "× 1" [ref=e660]
+            - cell "× 1" [ref=e661]
+            - cell "× 1" [ref=e662]
+          - row "RJ45 IN × 1 × 1 × 1 × 1" [ref=e663]:
+            - cell "RJ45 IN" [ref=e664]
+            - cell "× 1" [ref=e665]
+            - cell "× 1" [ref=e666]
+            - cell "× 1" [ref=e667]
+            - cell "× 1" [ref=e668]
+          - row "PC Module Slot Module slot × 1 Module slot × 1 Module slot × 1 Module slot × 1" [ref=e669]:
+            - cell "PC Module Slot" [ref=e670]
+            - cell "Module slot × 1" [ref=e671]
+            - cell "Module slot × 1" [ref=e672]
+            - cell "Module slot × 1" [ref=e673]
+            - cell "Module slot × 1" [ref=e674]
+          - row "Wi-Fi Slot Module slot × 1 Module slot × 1 Module slot × 1 Module slot × 1" [ref=e675]:
+            - cell "Wi-Fi Slot" [ref=e676]
+            - cell "Module slot × 1" [ref=e677]
+            - cell "Module slot × 1" [ref=e678]
+            - cell "Module slot × 1" [ref=e679]
+            - cell "Module slot × 1" [ref=e680]
+          - row "Wi-Fi Wi-Fi 6 supported 802.11ax, 2.4GHz/5GHz Wi-Fi 6 supported 802.11ax, 2.4GHz/5GHz Wi-Fi 6 supported 802.11ax, 2.4GHz/5GHz Wi-Fi 6 supported 802.11ax, 2.4GHz/5GHz" [ref=e681]:
+            - cell "Wi-Fi" [ref=e682]
+            - cell "Wi-Fi 6 supported 802.11ax, 2.4GHz/5GHz" [ref=e683]:
+              - text: Wi-Fi 6 supported
+              - text: 802.11ax, 2.4GHz/5GHz
+            - cell "Wi-Fi 6 supported 802.11ax, 2.4GHz/5GHz" [ref=e684]:
+              - text: Wi-Fi 6 supported
+              - text: 802.11ax, 2.4GHz/5GHz
+            - cell "Wi-Fi 6 supported 802.11ax, 2.4GHz/5GHz" [ref=e685]:
+              - text: Wi-Fi 6 supported
+              - text: 802.11ax, 2.4GHz/5GHz
+            - cell "Wi-Fi 6 supported 802.11ax, 2.4GHz/5GHz" [ref=e686]:
+              - text: Wi-Fi 6 supported
+              - text: 802.11ax, 2.4GHz/5GHz
+          - row "Bluetooth 5.2 5.2 5.2 5.2" [ref=e687]:
+            - cell "Bluetooth" [ref=e688]
+            - cell "5.2" [ref=e689]
+            - cell "5.2" [ref=e690]
+            - cell "5.2" [ref=e691]
+            - cell "5.2" [ref=e692]
+          - row "Camera" [ref=e693]:
+            - cell "Camera" [ref=e694]
+          - row "Quantity 3 3 3 3" [ref=e695]:
+            - cell "Quantity" [ref=e696]
+            - cell "3" [ref=e697]
+            - cell "3" [ref=e698]
+            - cell "3" [ref=e699]
+            - cell "3" [ref=e700]
+          - row "Resolution 50 MP + 50 MP + 50 MP (Panorama + Telephoto + Telephoto) 50 MP + 50 MP + 50 MP (Panorama + Telephoto + Telephoto) 50 MP + 50 MP + 50 MP (Panorama + Telephoto + Telephoto) 50 MP + 50 MP + 50 MP (Panorama + Telephoto + Telephoto)" [ref=e701]:
+            - cell "Resolution" [ref=e702]
+            - cell "50 MP + 50 MP + 50 MP (Panorama + Telephoto + Telephoto)" [ref=e703]:
+              - text: 50 MP + 50 MP + 50 MP
+              - text: (Panorama + Telephoto + Telephoto)
+            - cell "50 MP + 50 MP + 50 MP (Panorama + Telephoto + Telephoto)" [ref=e704]:
+              - text: 50 MP + 50 MP + 50 MP
+              - text: (Panorama + Telephoto + Telephoto)
+            - cell "50 MP + 50 MP + 50 MP (Panorama + Telephoto + Telephoto)" [ref=e705]:
+              - text: 50 MP + 50 MP + 50 MP
+              - text: (Panorama + Telephoto + Telephoto)
+            - cell "50 MP + 50 MP + 50 MP (Panorama + Telephoto + Telephoto)" [ref=e706]:
+              - text: 50 MP + 50 MP + 50 MP
+              - text: (Panorama + Telephoto + Telephoto)
+          - row "Zoom 2x optical zoom 5x digital zoom 2x optical zoom 5x digital zoom 2x optical zoom 5x digital zoom 2x optical zoom 5x digital zoom" [ref=e707]:
+            - cell "Zoom" [ref=e708]
+            - cell "2x optical zoom 5x digital zoom" [ref=e709]:
+              - text: 2x optical zoom
+              - text: 5x digital zoom
+            - cell "2x optical zoom 5x digital zoom" [ref=e710]:
+              - text: 2x optical zoom
+              - text: 5x digital zoom
+            - cell "2x optical zoom 5x digital zoom" [ref=e711]:
+              - text: 2x optical zoom
+              - text: 5x digital zoom
+            - cell "2x optical zoom 5x digital zoom" [ref=e712]:
+              - text: 2x optical zoom
+              - text: 5x digital zoom
+          - row "Field of View 99° (Diagonal) 86° (Horizontal) 69° (Vertical) 99° (Diagonal) 86° (Horizontal) 69° (Vertical) 99° (Diagonal) 86° (Horizontal) 69° (Vertical) 99° (Diagonal) 86° (Horizontal) 69° (Vertical)" [ref=e713]:
+            - cell "Field of View" [ref=e714]
+            - cell "99° (Diagonal) 86° (Horizontal) 69° (Vertical)" [ref=e715]:
+              - text: 99° (Diagonal)
+              - text: 86° (Horizontal)
+              - text: 69° (Vertical)
+            - cell "99° (Diagonal) 86° (Horizontal) 69° (Vertical)" [ref=e716]:
+              - text: 99° (Diagonal)
+              - text: 86° (Horizontal)
+              - text: 69° (Vertical)
+            - cell "99° (Diagonal) 86° (Horizontal) 69° (Vertical)" [ref=e717]:
+              - text: 99° (Diagonal)
+              - text: 86° (Horizontal)
+              - text: 69° (Vertical)
+            - cell "99° (Diagonal) 86° (Horizontal) 69° (Vertical)" [ref=e718]:
+              - text: 99° (Diagonal)
+              - text: 86° (Horizontal)
+              - text: 69° (Vertical)
+          - row "Position Built-in ejection Built-in ejection Built-in ejection Built-in ejection" [ref=e719]:
+            - cell "Position" [ref=e720]
+            - cell "Built-in ejection" [ref=e721]
+            - cell "Built-in ejection" [ref=e722]
+            - cell "Built-in ejection" [ref=e723]
+            - cell "Built-in ejection" [ref=e724]
+          - row "Feature Personalized presets Auto framing Speaker tracking Multiple-speaker tracking Intelligent focus Personalized presets Auto framing Speaker tracking Multiple-speaker tracking Intelligent focus Personalized presets Auto framing Speaker tracking Multiple-speaker tracking Intelligent focus Personalized presets Auto framing Speaker tracking Multiple-speaker tracking Intelligent focus" [ref=e725]:
+            - cell "Feature" [ref=e726]
+            - cell "Personalized presets Auto framing Speaker tracking Multiple-speaker tracking Intelligent focus" [ref=e727]:
+              - text: Personalized presets
+              - text: Auto framing
+              - text: Speaker tracking
+              - text: Multiple-speaker tracking
+              - text: Intelligent focus
+            - cell "Personalized presets Auto framing Speaker tracking Multiple-speaker tracking Intelligent focus" [ref=e728]:
+              - text: Personalized presets
+              - text: Auto framing
+              - text: Speaker tracking
+              - text: Multiple-speaker tracking
+              - text: Intelligent focus
+            - cell "Personalized presets Auto framing Speaker tracking Multiple-speaker tracking Intelligent focus" [ref=e729]:
+              - text: Personalized presets
+              - text: Auto framing
+              - text: Speaker tracking
+              - text: Multiple-speaker tracking
+              - text: Intelligent focus
+            - cell "Personalized presets Auto framing Speaker tracking Multiple-speaker tracking Intelligent focus" [ref=e730]:
+              - text: Personalized presets
+              - text: Auto framing
+              - text: Speaker tracking
+              - text: Multiple-speaker tracking
+              - text: Intelligent focus
+          - row "Audio" [ref=e731]:
+            - cell "Audio" [ref=e732]
+          - row "Sound Channel 2.1 2.1 2.1 2.1" [ref=e733]:
+            - cell "Sound Channel" [ref=e734]
+            - cell "2.1" [ref=e735]
+            - cell "2.1" [ref=e736]
+            - cell "2.1" [ref=e737]
+            - cell "2.1" [ref=e738]
+          - row "Speaker Power 2×10W+20W 2×10W+20W 2×10W+20W 2×10W+20W" [ref=e739]:
+            - cell "Speaker Power" [ref=e740]
+            - cell "2×10W+20W" [ref=e741]
+            - cell "2×10W+20W" [ref=e742]
+            - cell "2×10W+20W" [ref=e743]
+            - cell "2×10W+20W" [ref=e744]
+          - row "Microphone" [ref=e745]:
+            - cell "Microphone" [ref=e746]
+          - row "Quantity 16-mic array 16-mic array 16-mic array 16-mic array" [ref=e747]:
+            - cell "Quantity" [ref=e748]
+            - cell "16-mic array" [ref=e749]
+            - cell "16-mic array" [ref=e750]
+            - cell "16-mic array" [ref=e751]
+            - cell "16-mic array" [ref=e752]
+          - row "Pick-up Angle 180° 180° 180° 180°" [ref=e753]:
+            - cell "Pick-up Angle" [ref=e754]
+            - cell "180°" [ref=e755]
+            - cell "180°" [ref=e756]
+            - cell "180°" [ref=e757]
+            - cell "180°" [ref=e758]
+          - row "Pick-up Range 0~15m 0~15m 0~15m 0~15m" [ref=e759]:
+            - cell "Pick-up Range" [ref=e760]
+            - cell "0~15m" [ref=e761]
+            - cell "0~15m" [ref=e762]
+            - cell "0~15m" [ref=e763]
+            - cell "0~15m" [ref=e764]
+          - row "Feature Intelligent audio fence AI spatial sound AEC (Auto echo cancellation) ANC (AI noise cancellation) AGC (Auto gain control) Intelligent audio fence AI spatial sound AEC (Auto echo cancellation) ANC (AI noise cancellation) AGC (Auto gain control) Intelligent audio fence AI spatial sound AEC (Auto echo cancellation) ANC (AI noise cancellation) AGC (Auto gain control) Intelligent audio fence AI spatial sound AEC (Auto echo cancellation) ANC (AI noise cancellation) AGC (Auto gain control)" [ref=e765]:
+            - cell "Feature" [ref=e766]
+            - cell "Intelligent audio fence AI spatial sound AEC (Auto echo cancellation) ANC (AI noise cancellation) AGC (Auto gain control)" [ref=e767]:
+              - text: Intelligent audio fence
+              - text: AI spatial sound
+              - text: AEC (Auto echo cancellation)
+              - text: ANC (AI noise cancellation)
+              - text: AGC (Auto gain control)
+            - cell "Intelligent audio fence AI spatial sound AEC (Auto echo cancellation) ANC (AI noise cancellation) AGC (Auto gain control)" [ref=e768]:
+              - text: Intelligent audio fence
+              - text: AI spatial sound
+              - text: AEC (Auto echo cancellation)
+              - text: ANC (AI noise cancellation)
+              - text: AGC (Auto gain control)
+            - cell "Intelligent audio fence AI spatial sound AEC (Auto echo cancellation) ANC (AI noise cancellation) AGC (Auto gain control)" [ref=e769]:
+              - text: Intelligent audio fence
+              - text: AI spatial sound
+              - text: AEC (Auto echo cancellation)
+              - text: ANC (AI noise cancellation)
+              - text: AGC (Auto gain control)
+            - cell "Intelligent audio fence AI spatial sound AEC (Auto echo cancellation) ANC (AI noise cancellation) AGC (Auto gain control)" [ref=e770]:
+              - text: Intelligent audio fence
+              - text: AI spatial sound
+              - text: AEC (Auto echo cancellation)
+              - text: ANC (AI noise cancellation)
+              - text: AGC (Auto gain control)
+          - row "Feature" [ref=e771]:
+            - cell "Feature" [ref=e772]
+          - row "System OS MAXHUB OS 7.0 powered by Windows MAXHUB OS 7.0 powered by Windows MAXHUB OS 7.0 powered by Windows MAXHUB OS 7.0 powered by Windows" [ref=e773]:
+            - cell "System OS" [ref=e774]
+            - cell "MAXHUB OS 7.0 powered by Windows" [ref=e775]
+            - cell "MAXHUB OS 7.0 powered by Windows" [ref=e776]
+            - cell "MAXHUB OS 7.0 powered by Windows" [ref=e777]
+            - cell "MAXHUB OS 7.0 powered by Windows" [ref=e778]
+          - row "Screen Share MAXHUB Share Support BYOM / Miracast / Airplay / Chromecast / P2P MAXHUB Share Support BYOM / Miracast / Airplay / Chromecast / P2P MAXHUB Share Support BYOM / Miracast / Airplay / Chromecast / P2P MAXHUB Share Support BYOM / Miracast / Airplay / Chromecast / P2P" [ref=e779]:
+            - cell "Screen Share" [ref=e780]
+            - cell "MAXHUB Share Support BYOM / Miracast / Airplay / Chromecast / P2P" [ref=e781]:
+              - text: MAXHUB Share
+              - text: Support BYOM / Miracast / Airplay / Chromecast / P2P
+            - cell "MAXHUB Share Support BYOM / Miracast / Airplay / Chromecast / P2P" [ref=e782]:
+              - text: MAXHUB Share
+              - text: Support BYOM / Miracast / Airplay / Chromecast / P2P
+            - cell "MAXHUB Share Support BYOM / Miracast / Airplay / Chromecast / P2P" [ref=e783]:
+              - text: MAXHUB Share
+              - text: Support BYOM / Miracast / Airplay / Chromecast / P2P
+            - cell "MAXHUB Share Support BYOM / Miracast / Airplay / Chromecast / P2P" [ref=e784]:
+              - text: MAXHUB Share
+              - text: Support BYOM / Miracast / Airplay / Chromecast / P2P
+          - row "Device Management MAXHUB Pivot MAXHUB Pivot MAXHUB Pivot MAXHUB Pivot" [ref=e785]:
+            - cell "Device Management" [ref=e786]
+            - cell "MAXHUB Pivot" [ref=e787]
+            - cell "MAXHUB Pivot" [ref=e788]
+            - cell "MAXHUB Pivot" [ref=e789]
+            - cell "MAXHUB Pivot" [ref=e790]
+          - row "Protocol Control RS232 / IP control Supports integration with Crestron / Extron / Q-sys RS232 / IP control Supports integration with Crestron / Extron / Q-sys RS232 / IP control Supports integration with Crestron / Extron / Q-sys RS232 / IP control Supports integration with Crestron / Extron / Q-sys" [ref=e791]:
+            - cell "Protocol Control" [ref=e792]
+            - cell "RS232 / IP control Supports integration with Crestron / Extron / Q-sys" [ref=e793]:
+              - text: RS232 / IP control
+              - text: Supports integration with Crestron / Extron / Q-sys
+            - cell "RS232 / IP control Supports integration with Crestron / Extron / Q-sys" [ref=e794]:
+              - text: RS232 / IP control
+              - text: Supports integration with Crestron / Extron / Q-sys
+            - cell "RS232 / IP control Supports integration with Crestron / Extron / Q-sys" [ref=e795]:
+              - text: RS232 / IP control
+              - text: Supports integration with Crestron / Extron / Q-sys
+            - cell "RS232 / IP control Supports integration with Crestron / Extron / Q-sys" [ref=e796]:
+              - text: RS232 / IP control
+              - text: Supports integration with Crestron / Extron / Q-sys
+          - row "Special Features Microsoft Intune Microsoft Intune Microsoft Intune Microsoft Intune" [ref=e797]:
+            - cell "Special Features" [ref=e798]
+            - cell "Microsoft Intune" [ref=e799]
+            - cell "Microsoft Intune" [ref=e800]
+            - cell "Microsoft Intune" [ref=e801]
+            - cell "Microsoft Intune" [ref=e802]
+          - row "Certification" [ref=e803]:
+            - cell "Certification" [ref=e804]
+          - row "Safety IEC 62368-1 IEC 62368-1 IEC 62368-1 IEC 62368-1" [ref=e805]:
+            - cell "Safety" [ref=e806]
+            - cell "IEC 62368-1" [ref=e807]
+            - cell "IEC 62368-1" [ref=e808]
+            - cell "IEC 62368-1" [ref=e809]
+            - cell "IEC 62368-1" [ref=e810]
+          - row "EMC Class B Class B Class B Class B" [ref=e811]:
+            - cell "EMC" [ref=e812]
+            - cell "Class B" [ref=e813]
+            - cell "Class B" [ref=e814]
+            - cell "Class B" [ref=e815]
+            - cell "Class B" [ref=e816]
+          - row "Environment Energy Star Energy Star Energy Star Energy Star" [ref=e817]:
+            - cell "Environment" [ref=e818]
+            - cell "Energy Star" [ref=e819]
+            - cell "Energy Star" [ref=e820]
+            - cell "Energy Star" [ref=e821]
+            - cell "Energy Star" [ref=e822]
+          - row "IP Rating IP5X design standards IP5X design standards IP5X design standards IP5X design standards" [ref=e823]:
+            - cell "IP Rating" [ref=e824]
+            - cell "IP5X design standards" [ref=e825]
+            - cell "IP5X design standards" [ref=e826]
+            - cell "IP5X design standards" [ref=e827]
+            - cell "IP5X design standards" [ref=e828]
+    - generic [ref=e832]:
+      - generic [ref=e833]:
+        - heading "WELCOME TO CONTACT MAXHUB" [level=2] [ref=e834]
+        - heading [level=2]
+      - generic [ref=e835]:
+        - generic [ref=e836]:
+          - generic [ref=e837]:
+            - generic [ref=e838]: "* First Name"
+            - textbox "* First Name" [ref=e839]
+          - generic [ref=e840]:
+            - generic [ref=e841]: "* Last Name"
+            - textbox "* Last Name" [ref=e842]
+        - generic [ref=e844]:
+          - generic [ref=e845]: "* Company"
+          - textbox "* Company" [ref=e846]
+        - generic [ref=e847]:
+          - generic [ref=e848]:
+            - generic [ref=e849]: "* Email"
+            - textbox "* Email" [ref=e850]
+          - generic [ref=e851]:
+            - generic [ref=e852]: Mobile Phone
+            - textbox "Mobile Phone" [ref=e853]
+        - generic [ref=e854]:
+          - generic [ref=e855]:
+            - generic [ref=e856]: "* Country / Region"
+            - generic [ref=e857]:
+              - textbox [ref=e858]
+              - generic [ref=e859]: 
+              - combobox [ref=e860]:
+                - option [selected]
+                - option "Afghanistan"
+                - option "Aland Islands"
+                - option "Albania"
+                - option "Algeria"
+                - option "American Samoa"
+                - option "Andorra"
+                - option "Angola"
+                - option "Anguilla"
+                - option "Antarctica"
+                - option "Antigua and Barbuda"
+                - option "Argentina"
+                - option "Armenia"
+                - option "Aruba"
+                - option "Australia"
+                - option "Austria"
+                - option "Azerbaijan"
+                - option "Bahamas"
+                - option "Bahrain"
+                - option "Bangladesh"
+                - option "Barbados"
+                - option "Belarus"
+                - option "Belgium"
+                - option "Belize"
+                - option "Benin"
+                - option "Bermuda"
+                - option "Bhutan"
+                - option "Bissau"
+                - option "Bolivia"
+                - option "Bonaire, Sint Eustatius and Saba"
+                - option "Bosnia and Herzegovina"
+                - option "Botswana"
+                - option "Brazil"
+                - option "British Indian Ocean territory"
+                - option "Brunei"
+                - option "Bulgaria"
+                - option "Burkina Faso"
+                - option "Burundi"
+                - option "Cambodia"
+                - option "Cameroon"
+                - option "Canada"
+                - option "Cape Verde"
+                - option "Cayman Islands"
+                - option "Central African Republic"
+                - option "Chad"
+                - option "Chile"
+                - option "China"
+                - option "Christmas Island"
+                - option "Cocos (Keeling) Islands"
+                - option "Colombia"
+                - option "Comoros"
+                - option "Congo"
+                - option "Cook Islands"
+                - option "Costa Rica"
+                - option "Cote D'Ivoire"
+                - option "Croatia"
+                - option "Cuba"
+                - option "Curaçao"
+                - option "Cyprus"
+                - option "Czech Republic"
+                - option "Democratic Republic of the Congo"
+                - option "Denmark"
+                - option "Djibouti"
+                - option "Dominica"
+                - option "Dominican Republic"
+                - option "Ecuador"
+                - option "Egypt"
+                - option "El Salvador"
+                - option "Equatorial Guinea"
+                - option "Eritrea"
+                - option "Estonia"
+                - option "Ethiopia"
+                - option "Faroe Islands"
+                - option "Fiji"
+                - option "Finland"
+                - option "France"
+                - option "French Guiana"
+                - option "French Polynesia"
+                - option "French Southern Territories"
+                - option "Gabon"
+                - option "Gambia"
+                - option "Georgia"
+                - option "Germany"
+                - option "Ghana"
+                - option "Gibraltar"
+                - option "Greece"
+                - option "Greenland"
+                - option "Grenada"
+                - option "Guadeloupe"
+                - option "Guam"
+                - option "Guatemala"
+                - option "Guernsey"
+                - option "Guinea"
+                - option "Guyana"
+                - option "Haiti"
+                - option "Heard Island and McDonald Islands"
+                - option "Honduras"
+                - option "Hungary"
+                - option "Iceland"
+                - option "India"
+                - option "Indonesia"
+                - option "Iran"
+                - option "Iraq"
+                - option "Ireland"
+                - option "Isle of Man"
+                - option "Israel"
+                - option "Italy"
+                - option "Jamaica"
+                - option "Japan"
+                - option "Jersey"
+                - option "Jordan"
+                - option "Kazakhstan"
+                - option "Kenya"
+                - option "Kiribati"
+                - option "Korea"
+                - option "Kosovo"
+                - option "Kuwait"
+                - option "Kyrgyzstan"
+                - option "Laos"
+                - option "Latvia"
+                - option "Lebanon"
+                - option "Lesotho"
+                - option "Leste"
+                - option "Liberia"
+                - option "Libya"
+                - option "Liechtenstein"
+                - option "Lithuania"
+                - option "Luxembourg"
+                - option "Macedonia"
+                - option "Madagascar"
+                - option "Malawi"
+                - option "Malaysia"
+                - option "Maldives"
+                - option "Mali"
+                - option "Malta"
+                - option "Marshall Islands"
+                - option "Martinique"
+                - option "Mauritania"
+                - option "Mauritius"
+                - option "Mayotte"
+                - option "Mexico"
+                - option "Micronesia"
+                - option "Moldova"
+                - option "Monaco"
+                - option "Mongolia"
+                - option "Montenegro"
+                - option "Montserrat"
+                - option "Morocco"
+                - option "Mozambique"
+                - option "Myanmar"
+                - option "Namibia"
+                - option "Nauru"
+                - option "Nepal"
+                - option "Netherlands"
+                - option "Nevis"
+                - option "New Caledonia"
+                - option "New Zealand"
+                - option "Nicaragua"
+                - option "Niger"
+                - option "Nigeria"
+                - option "Niue"
+                - option "Norfolk Island"
+                - option "Northern mariana islands"
+                - option "Norway"
+                - option "Oman"
+                - option "Pakistan"
+                - option "Palau"
+                - option "Palestine"
+                - option "Panama"
+                - option "Papua New Guinea"
+                - option "Paraguay"
+                - option "Peru"
+                - option "Philippines"
+                - option "Poland"
+                - option "Portugal"
+                - option "Puerto Rico"
+                - option "Qatar"
+                - option "Reunion"
+                - option "Romania"
+                - option "Russia"
+                - option "Rwanda"
+                - option "Saint Barthélemy"
+                - option "Saint Helena"
+                - option "Saint Lucia"
+                - option "Saint Martin"
+                - option "Saint Pierre and meters cloning islands"
+                - option "Saint Vincent and the Grenadines"
+                - option "Samoa"
+                - option "San Marino"
+                - option "Sao Tome and Principe"
+                - option "Saudi Arabia"
+                - option "Senegal"
+                - option "Serbia"
+                - option "Seychelles"
+                - option "Sierra Leone"
+                - option "Singapore"
+                - option "Slovakia"
+                - option "Slovenia"
+                - option "Solomon Islands"
+                - option "Somalia"
+                - option "South Africa"
+                - option "South Georgia and south sandwich islands"
+                - option "South Sudan"
+                - option "Spain"
+                - option "Sri Lanka"
+                - option "Sudan"
+                - option "Suriname"
+                - option "Svalbard and Jan Mayen"
+                - option "Swaziland"
+                - option "Sweden"
+                - option "Switzerland"
+                - option "Syria"
+                - option "Tajikistan"
+                - option "Tanzania"
+                - option "Thailand"
+                - option "Togo"
+                - option "Tokelau"
+                - option "Tonga"
+                - option "Trinidad and Tobago"
+                - option "Tunisia"
+                - option "Turkey"
+                - option "Turkmenistan"
+                - option "Turks and Caicos Islands"
+                - option "Tuvalu"
+                - option "Uganda"
+                - option "Ukraine"
+                - option "United Arab Emirates"
+                - option "United Kingdom"
+                - option "United States"
+                - option "Uruguay"
+                - option "Uzbekistan"
+                - option "Vanuatu"
+                - option "Vatican City"
+                - option "Venezuela"
+                - option "Viet Nam"
+                - option "Virgin Islands, British"
+                - option "Virgin islands, the United States"
+                - option "Wallis and Futuna"
+                - option "Western Sahara"
+                - option "Yemen"
+                - option "Zambia"
+                - option "Zimbabwe"
+          - text: 
+          - generic [ref=e861]:
+            - generic [ref=e862]: City
+            - textbox "City" [ref=e863]
+        - generic [ref=e864]:
+          - generic [ref=e865]: "* Product Category"
+          - generic [ref=e866]:
+            - generic [ref=e869] [cursor=pointer]:
+              - checkbox "Interactive Flat Panel" [ref=e870]
+              - text: Interactive Flat Panel
+            - generic [ref=e873] [cursor=pointer]:
+              - checkbox "Commercial Display" [ref=e874]
+              - text: Commercial Display
+            - generic [ref=e877] [cursor=pointer]:
+              - checkbox "Unified Communication" [ref=e878]
+              - text: Unified Communication
+            - generic [ref=e881] [cursor=pointer]:
+              - checkbox "LED Display" [ref=e882]
+              - text: LED Display
+            - generic [ref=e885] [cursor=pointer]:
+              - checkbox "Accessories" [ref=e886]
+              - text: Accessories
+            - generic [ref=e889] [cursor=pointer]:
+              - checkbox "Software" [ref=e890]
+              - text: Software
+            - generic [ref=e893] [cursor=pointer]:
+              - checkbox "MTR Solutions" [ref=e894]
+              - text: MTR Solutions
+            - generic [ref=e897] [cursor=pointer]:
+              - checkbox "Others" [ref=e898]
+              - text: Others
+        - generic [ref=e899]:
+          - generic [ref=e900]:
+            - generic [ref=e901]: "* Inquiry Type"
+            - generic [ref=e902]:
+              - textbox [ref=e903]
+              - generic [ref=e904]: 
+              - combobox [ref=e905]:
+                - option [selected]
+                - option "Sales inquiry"
+                - option "After-sales inquiry"
+                - option "Marketing Agency service"
+                - option "Others"
+          - generic [ref=e906]:
+            - generic [ref=e907]: "* Industry"
+            - generic [ref=e908]:
+              - textbox [ref=e909]
+              - generic [ref=e910]: 
+              - combobox [ref=e911]:
+                - option [selected]
+                - option "Education"
+                - option "Retail"
+                - option "Government"
+                - option "Hospitality"
+                - option "Manufacturing"
+                - option "Services"
+                - option "Real Estate"
+                - option "Energy"
+                - option "Entertainment"
+                - option "Healthcare"
+                - option "Churches"
+                - option "Finance"
+                - option "Transportation"
+                - option "Others"
+          - generic [ref=e912]:
+            - generic [ref=e913]: "* Account Category"
+            - generic [ref=e914]:
+              - textbox [ref=e915]
+              - generic [ref=e916]: 
+              - combobox [ref=e917]:
+                - option [selected]
+                - option "Distributor"
+                - option "Reseller"
+                - option "End User"
+        - generic [ref=e918]:
+          - generic [ref=e919]: "* Message"
+          - textbox "* Message" [ref=e920]
+        - generic [ref=e921]:
+          - generic [ref=e922]: "* Subscription"
+          - generic [ref=e923]:
+            - generic [ref=e926] [cursor=pointer]:
+              - radio "Yes, I would like to subscribe to the MAXHUB newsletter. (You may unsubscribe at any time)" [ref=e927]
+              - text: Yes, I would like to subscribe to the MAXHUB newsletter. (You may unsubscribe at any time)
+            - generic [ref=e930] [cursor=pointer]:
+              - radio "No, thanks" [ref=e931]
+              - text: No, thanks
+        - generic [ref=e934]:
+          - checkbox "* I agree to MAXHUB’s Privacy Policy" [ref=e935]
+          - text: "* I agree to MAXHUB’s"
+          - link "Privacy Policy" [ref=e936] [cursor=pointer]:
+            - /url: /in/privacy-policy/
+        - button "SUBMIT" [ref=e938] [cursor=pointer]
+  - contentinfo [ref=e939]:
+    - generic [ref=e940]:
+      - generic [ref=e942] [cursor=pointer]: 
+      - generic [ref=e943]:
+        - heading "GET CONNECTED WITH US" [level=2] [ref=e944]
+        - generic [ref=e945]:
+          - link "icon icon" [ref=e947] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/maxhub-overseas/
+            - img "icon" [ref=e948]
+            - img "icon" [ref=e949]
+          - link "icon icon" [ref=e951] [cursor=pointer]:
+            - /url: https://www.facebook.com/MAXHUB.Global
+            - img "icon" [ref=e952]
+            - img "icon" [ref=e953]
+          - link "icon icon" [ref=e955] [cursor=pointer]:
+            - /url: https://twitter.com/MAXHUB_Global
+            - img "icon" [ref=e956]
+            - img "icon" [ref=e957]
+          - link "icon icon" [ref=e959] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCMVdMpZsT-uiugSofEA3FEw
+            - img "icon" [ref=e960]
+            - img "icon" [ref=e961]
+        - generic [ref=e963]:
+          - generic [ref=e964]:
+            - generic [ref=e965]:
+              - heading "Company" [level=4] [ref=e966]: Company 
+              - list [ref=e967]:
+                - listitem [ref=e968]:
+                  - link "About MAXHUB" [ref=e969] [cursor=pointer]:
+                    - /url: /in/about_maxhub/
+                - listitem [ref=e970]:
+                  - link "Awards" [ref=e971] [cursor=pointer]:
+                    - /url: /in/newsroom/?tab_id=4
+                - listitem [ref=e972]:
+                  - link "Contact Us" [ref=e973] [cursor=pointer]:
+                    - /url: /in/contact_us/
+            - generic [ref=e974]:
+              - heading "News & Events" [level=4] [ref=e975]: News & Events 
+              - list [ref=e976]:
+                - listitem [ref=e977]:
+                  - link "News" [ref=e978] [cursor=pointer]:
+                    - /url: /in/about_maxhub/?tab_id=1
+                - listitem [ref=e979]:
+                  - link "Events" [ref=e980] [cursor=pointer]:
+                    - /url: /in/about_maxhub/?tab_id=2
+            - generic [ref=e981]:
+              - heading "Customer Stories" [level=4] [ref=e982]: Customer Stories 
+              - list [ref=e983]:
+                - listitem [ref=e984]:
+                  - link "Customer Stories" [ref=e985] [cursor=pointer]:
+                    - /url: /in/customer_stories/
+          - generic [ref=e986]:
+            - generic [ref=e988]:
+              - textbox "Enter your E-mail Address" [ref=e989]
+              - button "SUBMIT" [ref=e991] [cursor=pointer]
+            - generic [ref=e992]:
+              - text: Sign up to receive MAXHUB marketing emails. You can modify your subscription or unsubscribe at any time.
+              - text: "Address:"
+              - text: Smartworks Corporate Park, 04th Floor, Tower A,
+              - text: Sector 125, Noida, Uttar Pradesh -201313
+              - text: "Service Support:"
+              - text: "Toll Free No: 1800 12012 2045"
+              - text: "E-Mail ID: maxhubindia@maxhub.com"
+              - text: "WhatsApp: 7042790873"
+              - text: "Timings: Monday to Saturday"
+              - text: 09:30AM - 06:30 PM
+              - text: "Sales Enquiry:"
+              - text: "Email Us: SalesEnquiry.India@maxhub.com"
+              - text: "Mobile: 7428096923"
+              - text: "WhatsApp: 07303084527"
+        - generic [ref=e993]:
+          - link "Web Policy" [ref=e994] [cursor=pointer]:
+            - /url: /in/privacy-policy/
+          - text: "|"
+          - link "Cookies Policy" [ref=e995] [cursor=pointer]:
+            - /url: /in/cookies/
+    - generic [ref=e997]: "* Education products are exclusive to APAC and the Middle East. ©2025 MAXHUB. All rights reserved"
+  - text: 
+  - generic [ref=e999]:
+    - generic [ref=e1001] [cursor=pointer]: 
+    - generic [ref=e1002]:
+      - paragraph [ref=e1004]:
+        - text: This site uses cookies to personalise your experience and analyse site traffic. By clicking ACCEPT or continuing to browse the site, you are agreeing to our use of cookies. See our
+        - link "Cookies" [ref=e1005] [cursor=pointer]:
+          - /url: /in/cookies/
+        - text: and
+        - link "Privacy Policy" [ref=e1006] [cursor=pointer]:
+          - /url: /in/privacy-policy/
+        - text: here
+      - generic [ref=e1007]:
+        - link "Yes, accept all " [ref=e1009] [cursor=pointer]:
+          - /url: javascript:;
+          - generic [ref=e1010]: Yes, accept all
+          - generic [ref=e1011]: 
+        - link "No thanks, only essential cookies " [ref=e1013] [cursor=pointer]:
+          - /url: javascript:;
+          - generic [ref=e1014]: No thanks, only essential cookies
+          - generic [ref=e1015]: 
+  - text:  
+  - link "Resource Center " [ref=e1018] [cursor=pointer]:
+    - /url: https://www.maxhub.com/in/resource-center-detail/?id=74e1f313-ebbe-477d-a8f4-329d3149954e
+    - generic [ref=e1019]: Resource Center
+    - generic [ref=e1020]: 
