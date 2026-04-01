@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for dir:*)",
+      "Bash(do echo:*)",
+      "Read(//d/infinityxglobal-claude/claude all/**)",
+      "Bash(done)",
+      "Bash(cp \"D:/infinityxglobal-claude/claude all/clone-master/SKILL.md\" \"D:/infinityxglobal-claude/.claude/commands/clone-master.md\")",
+      "Bash(cp \"D:/infinityxglobal-claude/claude all/clone-audit/SKILL.md\" \"D:/infinityxglobal-claude/.claude/commands/clone-audit.md\")",
+      "Bash(cp \"D:/infinityxglobal-claude/claude all/clone-extract/SKILL.md\" \"D:/infinityxglobal-claude/.claude/commands/clone-extract.md\")",
+      "Bash(cp \"D:/infinityxglobal-claude/claude all/clone-plan/SKILL.md\" \"D:/infinityxglobal-claude/.claude/commands/clone-plan.md\")",
+      "Bash(cp \"D:/infinityxglobal-claude/claude all/clone-build/SKILL.md\" \"D:/infinityxglobal-claude/.claude/commands/clone-build.md\")",
+      "Bash(cp \"D:/infinityxglobal-claude/claude all/clone-master/references/review-gates.md\" \"D:/infinityxglobal-claude/.claude/commands/references/\")",
+      "Bash(cp \"D:/infinityxglobal-claude/claude all/clone-master/references/claude-md-template.md\" \"D:/infinityxglobal-claude/.claude/commands/references/\")",
+      "Bash(cp \"D:/infinityxglobal-claude/claude all/clone-master/references/phase-contracts.md\" \"D:/infinityxglobal-claude/.claude/commands/references/\")",
+      "Bash(npm install:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
